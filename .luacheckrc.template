@@ -206,6 +206,11 @@ stds.qbox_lib = {
                         "size"
                     }
                 },
+                array = {
+                    fields = {
+                        "contains
+                    }
+                },
                 "getVehiclePlate",
                 "generateRandomPlate",
                 "getCardinalDirection",
