@@ -208,7 +208,7 @@ stds.qbox_lib = {
                 },
                 array = {
                     fields = {
-                        "contains
+                        "contains"
                     }
                 },
                 "getVehiclePlate",
